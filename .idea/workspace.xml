@@ -46,7 +46,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "com.jetbrains.django.DjangoModulesConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -83,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703752902490</updated>
       <workItem from="1703752904817" duration="2291000" />
-      <workItem from="1703841877881" duration="156000" />
+      <workItem from="1703841877881" duration="511000" />
     </task>
     <task id="LOCAL-00001" summary="git test">
       <option name="closed" value="true" />
