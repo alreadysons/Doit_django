@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6bedb6e7-c2d9-4014-b369-5fc8f28a874e" name="변경" comment="FBV로 블로그 포스트 상세 페이지 만들기">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single_pages/templates/single_pages/landing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single_pages/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project_Tochat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project_Tochat.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single_pages/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/single_pages/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +105,7 @@
       <workItem from="1703752904817" duration="2291000" />
       <workItem from="1703841877881" duration="3637000" />
       <workItem from="1704177374701" duration="3488000" />
-      <workItem from="1704183566547" duration="903000" />
+      <workItem from="1704183566547" duration="2092000" />
     </task>
     <task id="LOCAL-00001" summary="git test">
       <option name="closed" value="true" />
